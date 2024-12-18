@@ -1,0 +1,15 @@
+{
+  "name": "resurant",
+  "version": "1.0.0",
+  "description": "this project is for a resturant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "db" :"npx json-server --watch ./api/db.json"
+  },
+  "author": "donia",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EASYEAT-SHOP</title>
+    <!-- fontawsem -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- style link -->
+     <link rel="stylesheet" href="css/shop-item.css">
+    <link rel="icon" href="asset/img/logo-small-inverse 1.png">
+</head>
+<body>
+    <header>
+        <nav class="padding__x">
+            <div class="logo">
+                <img src="asset/img/logo-small-inverse 1.png" alt="logo">
+            </div>
+            <div class="nav__links">
+                <ul>
+                    <li><a href="home.html">HOME</a></li>
+                    <li><a href="shop.html" class="active">ABOUT</a></li>
+                    <li><a href="#">SHOP</a></li>
+                    <li><a href="contact">CONTACT</a></li>
+                </ul>
+            </div>
+            <div class="nav__icons">
+                <i class="fa-solid fa-heart"><span>0</span></i>
+                
+                <i class="fa-solid fa-cart-shopping"><span>0</span></i>
+                
+                <!-- <img src="asset/img/hero.jpg" alt=""> -->
+            </div>
+        </nav>
+        <!-- main section  -->
+        <main id="home" class="home padding__x padding-y">
+            <h2>HOME -  <span>CART</span></h2>
+        </main>
+        <section class="shop-item">
+            <div class="items">
+              <!-- العناصر ستضاف ديناميكيًا هنا -->
+            </div>
+            <div class="total">
+              <div class="total-txt">
+                <div>
+                  <h4>Total</h4>
+                  <h4>0 EG</h4>
+                </div>
+                <div>
+                  <h4>Shipping</h4>
+                  <h4>Free</h4>
+                </div>
+              </div>
+              <button class="btn">Checkout</button>
+            </div>
+          </section>
+          <section class="shop-empty padding__x" style="display: none;">
+            <h2>Your cart is currently empty.</h2>
+            <button class="btn">Return To Shop</button>
+          </section>
+          
+
+        <!-- this cod here -->
+        <!-- footer section  -->
+      <footer>
+        <span>©2024 Joe Programming Channel. All rights reserved</span>
+      </footer>
+    
+      <script src="shop-item.js"></script>
+</body>
+</html>

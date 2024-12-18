@@ -1,0 +1,111 @@
+{
+    "products" :[
+        {
+          "id": 1,
+          "categorySlug": "vegetarian",
+          "image": "https://img.freepik.com/free-photo/fresh-vegetable-greek-salad-close-up_2829-14163.jpg?uid=R149521821&ga=GA1.1.1283060649.1723822343&semt=ais_hybrid",
+          "price": "120 EG",
+          "rating": 4.7,
+          "title": "Vegetarian Burger",
+          "pieces": 1,
+          "spicy_sauce": false
+        },
+        {
+          "id": 2,
+          "categorySlug": "meal",
+          "image": "https://img.freepik.com/free-photo/fried-chicken-with-mushrooms-rice_140725-9648.jpg?uid=R149521821&ga=GA1.1.1283060649.1723822343&semt=ais_hybrid",
+          "price": "150 EG",
+          "rating": 4.5,
+          "title": "Pork Chop with Apple Chutney",
+          "pieces": 4,
+          "spicy_sauce": true
+        },
+        {
+          "id": 3,
+          "categorySlug": "chicken",
+          "image": "https://img.freepik.com/free-photo/big-sandwich-with-chicken-kebab-lettuce_2829-16770.jpg?uid=R149521821&ga=GA1.1.1283060649.1723822343&semt=ais_hybrid",
+          "price": "140 EG",
+          "rating": 4.3,
+          "title": "Grilled Chicken Sandwich",
+          "pieces": 2,
+          "spicy_sauce": true
+        },
+        {
+          "id": 4,
+          "categorySlug": "double",
+          "image": "https://img.freepik.com/free-photo/front-view-woman-eating-meat-burgers_141793-17491.jpg?uid=R149521821&ga=GA1.1.1283060649.1723822343&semt=ais_hybrid",
+          "price": "180 EG",
+          "rating": 4.8,
+          "title": "Double Cheese Burger",
+          "pieces": 2,
+          "spicy_sauce": false
+        },
+        {
+          "id": 5,
+          "categorySlug": "vegetarian",
+          "image": "https://img.freepik.com/free-photo/hot-spicy-stew-eggplant-sweet-pepper-olives-capers-with-basil-leaves_2829-6433.jpg?uid=R149521821&ga=GA1.1.1283060649.1723822343&semt=ais_hybrid",
+          "price": "130 EG",
+          "rating": 4.6,
+          "title": "Vegetarian Pizza",
+          "pieces": 1,
+          "spicy_sauce": false
+        },
+        {
+          "id": 6,
+          "categorySlug": "meal",
+          "image": "https://img.freepik.com/free-photo/classic-caesar-salad-with-grated-parmesan_140725-5639.jpg?uid=R149521821&ga=GA1.1.1283060649.1723822343&semt=ais_hybrid",
+          "price": "200 EG",
+          "rating": 4.9,
+          "title": "Ribeye Steak with Mashed Potatoes",
+          "pieces": 1,
+          "spicy_sauce": false
+        },
+        {
+          "id": 7,
+          "categorySlug": "chicken",
+          "image": "https://img.freepik.com/free-photo/baked-appetizing-whole-chicken-with-oranges-cranberries-oven-form-closeup_1220-6581.jpg?uid=R149521821&ga=GA1.1.1283060649.1723822343&semt=ais_hybrid",
+          "price": "160 EG",
+          "rating": 4.4,
+          "title": "Crispy Fried Chicken",
+          "pieces": 4,
+          "spicy_sauce": true
+        },
+        {
+          "id": 8,
+          "categorySlug": "double",
+          "image": "https://img.freepik.com/free-photo/meat-burger-with-lettuce-tomato-sauce_140725-10600.jpg?uid=R149521821&ga=GA1.1.1283060649.1723822343&semt=ais_hybrid",
+          "price": "190 EG",
+          "rating": 4.7,
+          "title": "Double Chicken Burger",
+          "pieces": 2,
+          "spicy_sauce": true
+        }
+      ],
+      "categories": [
+      {
+        "id": 1,
+        "title": "Vegetarian",
+        "slug": "vegetarian",
+        "image": "https://img.freepik.com/free-photo/fresh-vegetable-greek-salad-close-up_2829-14163.jpg?uid=R149521821&ga=GA1.1.1283060649.1723822343&semt=ais_hybrid"
+      },
+      {
+        "id": 2,
+        "title": "Meal",
+        "slug": "meal",
+        "image": "https://img.freepik.com/free-photo/classic-caesar-salad-with-grated-parmesan_140725-5639.jpg?uid=R149521821&ga=GA1.1.1283060649.1723822343&semt=ais_hybrid"
+      },
+      {
+        "id": 3,
+        "title": "Chicken",
+        "slug": "chicken",
+        "image": "https://img.freepik.com/free-photo/baked-appetizing-whole-chicken-with-oranges-cranberries-oven-form-closeup_1220-6581.jpg?uid=R149521821&ga=GA1.1.1283060649.1723822343&semt=ais_hybrid"
+      },
+      {
+        "id": 4,
+        "title": "Double",
+        "slug": "double",
+        "image": "https://img.freepik.com/free-photo/meat-burger-with-lettuce-tomato-sauce_140725-10600.jpg?uid=R149521821&ga=GA1.1.1283060649.1723822343&semt=ais_hybrid"
+      }
+    ]
+      
+}
